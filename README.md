@@ -1,5 +1,8 @@
 # amazon-scrapy-bot
 一个爬取亚马逊商品的爬虫，基于scrapy
+# 运行
+
+python -m scrapy crawl amazon
 
 ## 结果样例
 商品项包含：
